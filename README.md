@@ -19,8 +19,9 @@ Decided to start the preliminary data exploration and identifying ways to improv
 ###### Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.  
 [Jupyter Notebook](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Jupyter%20Notebook/Data_quality_assessment.ipynb)  
 [Client_draft](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Client_draft.docx)  
-![alt text]()
+![alt text]()  
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
 
@@ -31,9 +32,12 @@ For context, Sprocket Central Pty Ltd is a long-standing KPMG client whom specia
 ### TASK 2 
 ###### Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. In building this recommendation, we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
 
+*Clustering Algorithm used : K-mean*  
 [Jupyter Notebook](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Jupyter%20Notebook/Data_insights.ipynb)  
 [Powerpoint presentation](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Data_insights.pptx)  
 ![alt text]()
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 The client is happy with the analysis plan and would like us to proceed.  After building the model we need to present our results back to the client. 
 
@@ -41,6 +45,6 @@ Visualisations such as interactive dashboards often help us highlight key findin
 
 ### TASK 3
 ###### Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard
-Visualization Software used : Tableau
-[Dashboard](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Final%20Dashboard.twbx)
-![alt text]()
+*Visualization Software used : Tableau*  
+[Dashboard](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Final%20Dashboard.twbx)  
+![alt text]()  
