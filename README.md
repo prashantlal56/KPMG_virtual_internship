@@ -19,7 +19,7 @@ Decided to start the preliminary data exploration and identifying ways to improv
 ###### Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.  
 [Jupyter Notebook](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Jupyter%20Notebook/Data_quality_assessment.ipynb)  
 [Client_draft](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Client_draft.docx)  
-![alt text]()  
+![alt text](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Project%20pictures/Client_draft.JPG)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
@@ -35,7 +35,7 @@ For context, Sprocket Central Pty Ltd is a long-standing KPMG client whom specia
 *Clustering Algorithm used : K-mean*  
 [Jupyter Notebook](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Jupyter%20Notebook/Data_insights.ipynb)  
 [Powerpoint presentation](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Data_insights.pptx)  
-![alt text]()
+![alt text](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Project%20pictures/Data_insights_2.jpg)![alt text](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Project%20pictures/Data_insights_1.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -47,4 +47,4 @@ Visualisations such as interactive dashboards often help us highlight key findin
 ###### Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard
 *Visualization Software used : Tableau*  
 [Dashboard](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Final%20Dashboard.twbx)  
-![alt text]()  
+![alt text](https://github.com/prashantlal56/KPMG_virtual_internship/blob/master/Project%20pictures/Dashboard.jpg)  
